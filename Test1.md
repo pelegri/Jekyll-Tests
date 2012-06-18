@@ -20,3 +20,16 @@ title: Test1
 * Two
 * Three [Link](http://blackberry.com)
 * Four
+
+## Heading
+
+a paragraph
+
+## Heading2  {#myheading}
+
+another paragraph
+
+My Heading   {#myid}
+==========
+
+yet another paragraph
